@@ -21,7 +21,7 @@ int main() {
         printf("Reingresar Meses Totales: \n");
         scanf("%lf", &total_meses);
     }
-
+//7//
     printf("Tasa de Interes: \n");
     scanf("%lf", &tasa_interes);
 
